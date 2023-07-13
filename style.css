@@ -13,12 +13,17 @@
 
 .main-visual-text{
     color: ;
-    padding: 20px 20px;
+    padding: 20px;
 }
 
 .main{
     width: 840px;
-    margin-top: 20px;
+    margin: 0 auto;
+    
+}
+
+.introduct{
+    margin: 20px 0;
 }
 
 .box-item{
